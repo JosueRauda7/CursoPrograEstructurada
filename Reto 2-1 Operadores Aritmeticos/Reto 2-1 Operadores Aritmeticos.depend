@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580444013 source:c:\users\shiro\progra-estructurada\cursoprograestructurada\reto 2-1 operadores aritmeticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
