@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584041949 source:c:\users\shiro\progra-estructurada\cursoprograestructurada\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
