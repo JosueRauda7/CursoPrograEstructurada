@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584059634 source:c:\users\shiro\progra-estructurada\cursoprograestructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"operaciones.h"
+
+1584058975 c:\users\shiro\progra-estructurada\cursoprograestructurada\librerias\operaciones.h
+
